@@ -19,6 +19,7 @@ Recommends: netrunner-artwork-aurorae-themes,
             netrunner-settings-sddm,
             netrunner-settings-theming,
             netrunner-settings-thunderbird,
-            netrunner-settings-xsession
+            netrunner-settings-xsession,
+            netrunner-settings-kcmabout
 Description: Metapackage for Netrunner Default Settings
   This metapackage provides the default settings for Netrunner.
