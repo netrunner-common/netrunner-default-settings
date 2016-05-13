@@ -14,12 +14,13 @@ Recommends: netrunner-artwork-aurorae-themes,
             netrunner-settings-autostart,
             netrunner-settings-desktop,
             netrunner-settings-firefox,
+            netrunner-settings-kcmabout,
             netrunner-settings-kdeapps,
             netrunner-settings-plasma,
+            netrunner-settings-profiled,
             netrunner-settings-sddm,
             netrunner-settings-theming,
             netrunner-settings-thunderbird,
-            netrunner-settings-xsession,
-            netrunner-settings-kcmabout
+            netrunner-settings-xsession
 Description: Metapackage for Netrunner Default Settings
   This metapackage provides the default settings for Netrunner.
