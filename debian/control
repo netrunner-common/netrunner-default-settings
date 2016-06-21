@@ -7,21 +7,21 @@ Standards-Version: 3.7.2
 
 Package: netrunner-default-settings
 Architecture: all
-Recommends: netrunner-artwork-aurorae-themes,
+Recommends: default-artwork-aurorae-themes,
             netrunner-plasma5-panels,
-            netrunner-plasma5-shells,
-            netrunner-settings-applications,
-            netrunner-settings-autostart,
-            netrunner-settings-desktop,
-            netrunner-settings-firefox,
+            default-plasma5-shells,
+            default-settings-applications,
+            default-settings-autostart,
+            default-settings-desktop,
+            default-settings-firefox,
             netrunner-settings-grub,
             netrunner-settings-kcmabout,
-            netrunner-settings-kdeapps,
-            netrunner-settings-plasma,
-            netrunner-settings-profiled,
+            default-settings-kdeapps,
+            default-settings-plasma,
+            default-settings-profiled,
             netrunner-settings-sddm,
             netrunner-settings-theming,
-            netrunner-settings-thunderbird,
-            netrunner-settings-xsession
+            default-settings-thunderbird,
+            default-settings-xsession
 Description: Metapackage for Netrunner Default Settings
   This metapackage provides the default settings for Netrunner.
