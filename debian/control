@@ -9,7 +9,7 @@ Package: netrunner-default-settings
 Architecture: all
 Recommends: default-artwork-aurorae-themes,
             default-settings-applications,
-            default-settings-autostart,
+            netrunner-settings-autostart,
             default-settings-desktop,
             netrunner-settings-firefox,
             default-settings-kdeapps,
