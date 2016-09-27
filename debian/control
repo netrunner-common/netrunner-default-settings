@@ -8,15 +8,16 @@ Standards-Version: 3.7.2
 Package: netrunner-default-settings
 Architecture: all
 Recommends: default-artwork-aurorae-themes,
+            default-hooks-initramfs-tools,
             default-settings-applications,
             default-settings-desktop,
             default-settings-e2fsprogs,
             default-settings-kdeapps,
             default-settings-plasma,
             default-settings-profiled,
+            default-settings-session-debug,
             default-settings-thunderbird,
             default-settings-xsession,
-            default-settings-session-debug,
             default-systemsettings-settings,
             netrunner-plasma5-panels,
             netrunner-settings-autostart,
