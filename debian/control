@@ -8,7 +8,6 @@ Standards-Version: 3.7.2
 Package: netrunner-default-settings
 Architecture: all
 Recommends: default-artwork-aurorae-themes,
-            default-hooks-initramfs-tools,
             default-settings-applications,
             default-settings-desktop,
             default-settings-e2fsprogs,
