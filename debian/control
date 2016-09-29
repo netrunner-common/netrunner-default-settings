@@ -9,7 +9,6 @@ Package: netrunner-default-settings
 Architecture: all
 Recommends: default-artwork-aurorae-themes,
             default-settings-applications,
-            default-settings-desktop,
             default-settings-e2fsprogs,
             default-settings-kdeapps,
             default-settings-plasma,
