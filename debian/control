@@ -23,6 +23,7 @@ Recommends: default-artwork-aurorae-themes,
             netrunner-settings-firefox,
             netrunner-settings-grub,
             netrunner-settings-kcmabout,
+            netrunner-settings-python-apt,
             netrunner-settings-sddm,
             netrunner-settings-theming
 Description: Metapackage for Netrunner Default Settings
