@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9)
 Standards-Version: 3.7.2
 
 Package: netrunner-default-settings
-Architecture: all
+Architecture: any
 Recommends: default-artwork-aurorae-themes,
             default-settings-applications,
             default-settings-autostart,
