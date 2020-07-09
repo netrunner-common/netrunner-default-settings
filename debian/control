@@ -10,7 +10,6 @@ Architecture: all
 Multi-Arch: foreign
 Recommends: default-artwork-aurorae-themes,
             default-settings-applications,
-            default-settings-autostart,
             default-settings-e2fsprogs,
             default-settings-kdeapps,
             default-settings-plasma,
